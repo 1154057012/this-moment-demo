@@ -1,0 +1,242 @@
+{
+  "width": 540,
+  "height": 960,
+  "fps": 25,
+  "clips": [
+    {
+      "id": 1,
+      "title": "海边到了",
+      "duration": 3,
+      "source": "source-waves.mp4",
+      "sourceStart": 2,
+      "video": "clip-1.mp4",
+      "thumbnail": "clip-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "一起走向海边",
+      "duration": 3,
+      "source": "source-friends2.mp4",
+      "sourceStart": 0,
+      "video": "clip-2.mp4",
+      "thumbnail": "clip-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "浪花靠近",
+      "duration": 4,
+      "source": "source-waves.mp4",
+      "sourceStart": 12,
+      "video": "clip-3.mp4",
+      "thumbnail": "clip-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "同行的这一刻",
+      "duration": 6,
+      "source": "source-friends.mp4",
+      "sourceStart": 2,
+      "video": "clip-4.mp4",
+      "thumbnail": "clip-4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "慢慢看海",
+      "duration": 4,
+      "source": "source-waves.mp4",
+      "sourceStart": 28,
+      "video": "clip-5.mp4",
+      "thumbnail": "clip-5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "风里的我们",
+      "duration": 4,
+      "source": "source-friends2.mp4",
+      "sourceStart": 3,
+      "video": "clip-6.mp4",
+      "thumbnail": "clip-6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "再看一次浪花",
+      "duration": 3,
+      "source": "source-waves.mp4",
+      "sourceStart": 43,
+      "video": "clip-7.mp4",
+      "thumbnail": "clip-7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "一起留下的回忆",
+      "duration": 3,
+      "source": "source-friends.mp4",
+      "sourceStart": 7,
+      "video": "clip-8.mp4",
+      "thumbnail": "clip-8.jpg"
+    }
+  ],
+  "versions": [
+    {
+      "file": "base.mp4",
+      "duration": 30,
+      "environmentHighlighted": false,
+      "shortened": false,
+      "sequence": [
+        {
+          "clipId": 1,
+          "duration": 3
+        },
+        {
+          "clipId": 2,
+          "duration": 3
+        },
+        {
+          "clipId": 3,
+          "duration": 4
+        },
+        {
+          "clipId": 4,
+          "duration": 6
+        },
+        {
+          "clipId": 5,
+          "duration": 4
+        },
+        {
+          "clipId": 6,
+          "duration": 4
+        },
+        {
+          "clipId": 7,
+          "duration": 3
+        },
+        {
+          "clipId": 8,
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "file": "voice.mp4",
+      "duration": 30,
+      "environmentHighlighted": true,
+      "shortened": false,
+      "sequence": [
+        {
+          "clipId": 1,
+          "duration": 3
+        },
+        {
+          "clipId": 2,
+          "duration": 3
+        },
+        {
+          "clipId": 3,
+          "duration": 4
+        },
+        {
+          "clipId": 4,
+          "duration": 6
+        },
+        {
+          "clipId": 5,
+          "duration": 4
+        },
+        {
+          "clipId": 6,
+          "duration": 4
+        },
+        {
+          "clipId": 7,
+          "duration": 3
+        },
+        {
+          "clipId": 8,
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "file": "short.mp4",
+      "duration": 24,
+      "environmentHighlighted": false,
+      "shortened": true,
+      "sequence": [
+        {
+          "clipId": 1,
+          "duration": 3
+        },
+        {
+          "clipId": 2,
+          "duration": 3
+        },
+        {
+          "clipId": 3,
+          "duration": 1
+        },
+        {
+          "clipId": 4,
+          "duration": 6
+        },
+        {
+          "clipId": 5,
+          "duration": 1
+        },
+        {
+          "clipId": 6,
+          "duration": 4
+        },
+        {
+          "clipId": 7,
+          "duration": 3
+        },
+        {
+          "clipId": 8,
+          "duration": 3
+        }
+      ]
+    },
+    {
+      "file": "both.mp4",
+      "duration": 24,
+      "environmentHighlighted": true,
+      "shortened": true,
+      "sequence": [
+        {
+          "clipId": 1,
+          "duration": 3
+        },
+        {
+          "clipId": 2,
+          "duration": 3
+        },
+        {
+          "clipId": 3,
+          "duration": 1
+        },
+        {
+          "clipId": 4,
+          "duration": 6
+        },
+        {
+          "clipId": 5,
+          "duration": 1
+        },
+        {
+          "clipId": 6,
+          "duration": 4
+        },
+        {
+          "clipId": 7,
+          "duration": 3
+        },
+        {
+          "clipId": 8,
+          "duration": 3
+        }
+      ]
+    }
+  ],
+  "audioDisclosure": "海浪为另行加入的 CC0 实录，配乐为原创合成；视频原素材无声，非现场原音。"
+}
